@@ -1,0 +1,112 @@
+html {
+  height: 100%;
+
+  font-family: 'Playfair Display', serif;
+}
+
+h1 {
+  padding: 10px 15px 15px;
+  margin: 5px 0 20px 10px;
+  color: #000000;
+  font-size: 60px;
+}
+
+ol {
+  font-weight: 700;
+  list-style: none;
+}
+
+.xom {
+  background-color: #91be5b;
+  width: 100px;
+  color: #000000;
+  text-align: center;
+  padding: 5px;
+  float: left;
+  margin: left;
+
+}
+
+.xom:hover {
+  cursor: pointer;
+  background-color: #708c3b;
+}
+
+.text {
+  color: #468000
+}
+
+
+
+body {
+  background-image: url(photo_2023-11-17_18-37-29.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.xlm{
+  background-color: #a7ff8f;
+  height: 200px;
+  width: 170px;
+  padding: 40px;
+  border: 10px solid #5aa300;
+  border-radius: 0px 0px 0px 0px;
+  margin: auto;
+  float: left;
+  }
+.xem{
+  background-color: #9da013;
+  height: 170px;
+  width: 170px;
+  padding: 40px;
+  border: 10px solid #4d4a00;
+  border-radius: 0px 0px 0px 0px;
+  margin: auto;
+  float: left;
+  color: black;
+  }
+.xtwm{
+  background-color: #889c5e;
+  height: 170px;
+  width: 170px;
+  padding: 40px;
+  border: 10px solid #6c8830;
+  border-radius: 0px 0px 0px 0px;
+  margin: auto;
+  float: left;
+  color: black;
+  }
+.xkm{
+  background-color: #fff370;
+  height: 200px;
+  width: 220px;
+  padding: 40px;
+  border: 10px solid #e13d66;
+  border-radius: 0px 0px 0px 0px;
+  margin: auto;
+  float: left;
+  color: black;
+  }
+.photo{
+  height: 150px;
+}
+.x9m{
+  background-color: #2e70ad;
+  height: 200px;
+  width: 170px;
+  padding: 40px;
+  border: 10px solid #0f4f57;
+  border-radius: 0px 0px 0px 0px;
+  margin: auto;
+  float: left;
+  color: black;
+  }
+.tet {
+  color: black;
+}
+.photos{
+  height: 270px;
+}
+.test{
+  margin-top: 150px;
+}
